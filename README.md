@@ -99,7 +99,7 @@ Bambu HUD provides real-time printer monitoring on dedicated touchscreen display
 Open the installer page:
 
 ```text
-[https://itssunnyb.github.io/Bambu_HUD/install.html]
+https://itssunnyb.github.io/Bambu_HUD/install.html
 ```
 
 Select your display type:
