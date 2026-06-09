@@ -7,7 +7,7 @@ A standalone ESP32 touchscreen dashboard for Bambu Lab printers.
 * Real-time printer monitoring
 * AMS status display
 * Touchscreen interface
-* Web-based setup portal
+* Web-based setup portal https://itssunnyb.github.io/Bambu_HUD/install.html
 * Multi-printer support
 * Battery support (4" version)
 * Compact 2.8" CYD support
