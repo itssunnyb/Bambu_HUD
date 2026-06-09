@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "../releases/4inch/bambu-hud-4inch.bin",
+          "path": "releases/4inch/bambu-hud-4inch.bin",
           "offset": 0
         }
       ]
