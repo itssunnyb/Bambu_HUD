@@ -59,8 +59,6 @@ Bambu HUD provides real-time printer monitoring on dedicated touchscreen display
 
 ---
 
-## Supported Hardware
-
 ## Tested Hardware
 
 The following displays have been tested and are officially supported.
