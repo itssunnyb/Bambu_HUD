@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "../releases/cyd28/bambu-hud-cyd28.bin",
+          "path": "releases/cyd28/bambu-hud-cyd28.bin",
           "offset": 0
         }
       ]
