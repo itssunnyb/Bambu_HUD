@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bambu HUD Installer</title>
+  <script
+    type="module"
+    src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module">
+  </script>
+</head>
+
+<body style="font-family:Arial;background:#111;color:white;padding:24px;max-width:760px;margin:auto;">
+  <h1>Bambu HUD Installer</h1>
+
+  <p>Use Chrome or Microsoft Edge on desktop. Plug your ESP32 screen into USB, then select the correct installer below.</p>
+
+  <hr>
+
+  <h2>4 Inch HUD</h2>
+  <p>For the 480x320 ESP32 touchscreen version with battery support.</p>
+  <esp-web-install-button manifest="./manifest-4in.json"></esp-web-install-button>
+
+  <hr>
+
+  <h2>2.8 Inch CYD HUD</h2>
+  <p>For ESP32-2432S028 / CYD 320x240 display.</p>
+  <esp-web-install-button manifest="./manifest-cyd28.json"></esp-web-install-button>
+
+  <hr>
+
+  <p>After installation, connect to the <b>BambuHUD_Setup</b> WiFi network and open <b>192.168.4.1</b>.</p>
+</body>
+</html>

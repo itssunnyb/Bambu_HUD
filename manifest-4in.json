@@ -1,0 +1,28 @@
+{
+  "name": "Bambu HUD 4 Inch",
+  "version": "0.1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "releases/4inch/Bambu_HUD_4.ino.bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "releases/4inch/Bambu_HUD_4.ino.partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "releases/4inch/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "releases/4inch/Bambu_HUD_4.ino.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}

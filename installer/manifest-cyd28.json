@@ -1,0 +1,16 @@
+{
+  "name": "Bambu HUD CYD 2.8 Inch",
+  "version": "0.1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "../releases/cyd28/bambu-hud-cyd28.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
