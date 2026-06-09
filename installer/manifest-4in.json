@@ -1,1 +1,16 @@
-Coming Soon
+{
+  "name": "Bambu HUD 4 Inch",
+  "version": "0.1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "../releases/4inch/bambu-hud-4inch.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
