@@ -61,19 +61,82 @@ Bambu HUD provides real-time printer monitoring on dedicated touchscreen display
 
 ## Supported Hardware
 
+## Tested Hardware
+
+The following displays have been tested and are officially supported.
+
 ### 4" ESP32 Touchscreen HUD
 
-* Resolution: 480x320
+Recommended for the best experience.
+
+**Features**
+
+* 480x320 resolution
 * Touchscreen support
 * Battery monitoring
 * Portable operation
+* Full-size dashboard layout
 
-### ESP32-2432S028 (CYD)
+**Tested Hardware**
 
-* Resolution: 320x240
+https://www.amazon.com/dp/B0BVFXR313
+
+---
+
+### 2.8" ESP32-2432S028 (CYD)
+
+Compact and low-cost version of the HUD.
+
+**Features**
+
+* 320x240 resolution
 * Touchscreen support
-* Compact form factor
 * USB powered
+* Compact dashboard layout
+
+**Tested Hardware**
+
+https://www.amazon.com/dp/B0BVFXR313
+
+---
+
+## Browser Installer
+
+Choose the installer that matches your display.
+
+### 4" HUD Firmware
+
+Designed for:
+
+* 480x320 touchscreen displays
+* Battery-powered HUD units
+
+### 2.8" CYD Firmware
+
+Designed for:
+
+* ESP32-2432S028
+* Cheap Yellow Display (CYD)
+* 320x240 touchscreen displays
+
+---
+
+## Hardware Compatibility
+
+### Officially Tested
+
+✅ 4" ESP32 Touchscreen Display
+
+✅ ESP32-2432S028 (CYD)
+
+### Planned Testing
+
+🔲 3.5" ESP32 Touchscreen Displays
+
+🔲 Additional ESP32 display variants
+
+If you successfully run Bambu HUD on other hardware, please open an issue and let us know.
+
 
 ---
 
