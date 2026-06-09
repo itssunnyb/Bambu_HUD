@@ -77,7 +77,7 @@ Recommended for the best experience.
 
 **Tested Hardware**
 
-[https://www.amazon.com/dp/B0GCN22NZ6?ref=ppx_yo2ov_dt_b_fed_asin_title]
+https://www.amazon.com/dp/B0GCN22NZ6?ref=ppx_yo2ov_dt_b_fed_asin_title
 
 ---
 
