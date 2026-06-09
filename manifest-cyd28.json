@@ -7,8 +7,20 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "releases/cyd28/bambu-hud-cyd28.bin",
-          "offset": 0
+          "path": "releases/cyd28/Bambu_HUD_2.8.ino.bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "releases/cyd28/Bambu_HUD_2.8.ino.partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "releases/cyd28/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "releases/cyd28/Bambu_HUD_2.8.ino.bin",
+          "offset": 65536
         }
       ]
     }
